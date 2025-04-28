@@ -1,7 +1,6 @@
 # Script de Remontagem de Discos S3FS
 
-Este script foi desenvolvido para **remontar discos S3FS** em instâncias EC2, com o objetivo de **liberar memória RAM** do sistema operacional.  
-Além disso, o script **envia notificações** de status via **Telegram** e **e-mail**, informando sobre o processo de desmontagem e remontagem dos discos.
+Este script foi desenvolvido para **remontar discos S3FS** em instâncias EC2, com o objetivo de **liberar memória RAM** do sistema operacional. Além disso, o script **envia notificações** de status via **Telegram** e **e-mail**, informando sobre o processo de desmontagem e remontagem dos discos.
 
 ## Pré-requisitos
 
